@@ -1,0 +1,48 @@
+Needs to study
+
+1) DSA
+2) HLD
+3) LLD
+4) Javascript
+5) React
+6) Angular
+7) Tailwind css
+8) Nest js
+9) Node js
+10) Next js
+11) SQL
+12) SQL Databases
+13) Non SQL Databases (Mongodb,radis)
+14) Docker
+15) Frontend machine coding practice
+16) Frontend system design 
+
+
+Needs to study for placement
+1) DSA
+2) HLD
+3) LLD
+4) Javascript
+5) React
+6) Nest js
+7) SQL
+8) SQL Databases
+9) Non SQL Databases (Mongodb,radis)
+
+DSA plan (1/1/25 to )
+1) Array
+2) BinarySearchTree
+3) LinkedList
+4) DoublyLinkedList
+5) Stack
+6) Queue
+7) HashTable
+8) BitManipulation
+9) DP
+10) Graph
+11) Greedy 
+
+// Daily goal
+Dp 28 videos (1/1/25)
+Dp 14 videos (2/1/25)
+DP 14 videos (3/1/25)
