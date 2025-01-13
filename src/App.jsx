@@ -7,6 +7,9 @@ import MathAndString from "./components/js/MathAndStringAndObject";
 import PromiseComponent from "./components/js/PromiseComponent";
 import Settimeout from "./components/js/SettimeoutAndDate";
 import Section from "./components/Section";
+import Basic from "./components/takeuforward/array/Basic";
+import Easy from "./components/takeuforward/array/Easy";
+import Medium from "./components/takeuforward/array/Medium";
 import UseId from "./components/UseId";
 
 export default function App() {
@@ -22,7 +25,7 @@ export default function App() {
       {/* <ArrayComponont /> */}
       {/* <PromiseComponent/> */}
       {/* <Linkedin /> */}
-      <GraphDsa/>
+      <Medium />
     </div>
   )
 };
