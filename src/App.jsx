@@ -10,6 +10,8 @@ import Section from "./components/Section";
 import Basic from "./components/takeuforward/array/Basic";
 import Easy from "./components/takeuforward/array/Easy";
 import Medium from "./components/takeuforward/array/Medium";
+import Basics from "./components/takeuforward/graph/Basics";
+import SinglyLinkedListBasics from "./components/takeuforward/linkedList/SinglyLinkedListBasics";
 import UseId from "./components/UseId";
 
 export default function App() {
@@ -25,7 +27,7 @@ export default function App() {
       {/* <ArrayComponont /> */}
       {/* <PromiseComponent/> */}
       {/* <Linkedin /> */}
-      <Medium />
+      <Basics />
     </div>
   )
 };
