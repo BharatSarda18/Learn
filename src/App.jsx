@@ -12,6 +12,7 @@ import Easy from "./components/takeuforward/array/Easy";
 import Medium from "./components/takeuforward/array/Medium";
 import Basics from "./components/takeuforward/graph/Basics";
 import SinglyLinkedListBasics from "./components/takeuforward/linkedList/SinglyLinkedListBasics";
+import Questions from "./components/takeuforward/stackandqueue/Questions";
 import UseId from "./components/UseId";
 
 export default function App() {
@@ -27,7 +28,7 @@ export default function App() {
       {/* <ArrayComponont /> */}
       {/* <PromiseComponent/> */}
       {/* <Linkedin /> */}
-      <Basics />
+      <Questions />
     </div>
   )
 };
